@@ -1,0 +1,13 @@
+{
+  "name": "node-api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "LUCHO R - SERGIO E- ARMANDO R",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1"
+  }
+}
